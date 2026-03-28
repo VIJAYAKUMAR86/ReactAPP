@@ -1,7 +1,7 @@
 import { useState } from 'react'
  
 import './App.css'
-import colorUpdate from './ColorUpdate';
+import colorUpdate from './colorUpdate';
  
 
 function App() {
